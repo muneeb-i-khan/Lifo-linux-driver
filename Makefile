@@ -1,4 +1,4 @@
-obj-m += ioctldriver.o
+obj-m += lifodriver.o
  
 KDIR = /lib/modules/$(shell uname -r)/build
  
